@@ -1,0 +1,23 @@
+{
+  "name": "Solitude",
+  "background": "#1E1F29",
+  "foreground": "#F8F8F2",
+  "selectionBackground": "#44475A",
+  "cursorColor": "#BBBBBB",
+  "black": "#000000",
+  "white": "#BBBBBB",
+  "blue": "#BD93F9",
+  "green": "#50FA7B",
+  "red": "#FF5555",
+  "yellow": "#F1FA8C",
+  "cyan": "#8BE9FD",
+  "purple": "#FF79C6",
+  "brightBlack": "#555555",
+  "brightWhite": "#FFFFFF",
+  "brightBlue": "#BD93F9",
+  "brightGreen": "#50FA7B",
+  "brightRed": "#FF5555",
+  "brightYellow": "#F1FA8C",
+  "brightCyan": "#8BE9FD",
+  "brightPurple": "#FF79C6"
+}
